@@ -1,2 +1,3 @@
 # supriyaa_databricks_ml
-repository holding databricks ML notebooks
+Repository holding databricks ML notebooks written using python OOPS concept
+
